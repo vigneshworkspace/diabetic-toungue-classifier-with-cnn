@@ -50,8 +50,14 @@ This project focuses on the binary classification of tongue images to detect dia
 | ViT (fine-tuned)   | 99%      | Slow           | no generalization           |
 
 ---
-
-## 📂 Project Structure
-
-
 [watch how it works <- by clicking here](https://drive.google.com/file/d/11X6KetzA6FOzUv0yEnJBqKKLc7yliOV9/view?usp=sharing)
+
+---
+## 🚀 Streamlit Demo
+
+You can run the app using:
+
+```bash
+streamlit run streamlit_app/Final1.py
+
+
